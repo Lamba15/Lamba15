@@ -19,7 +19,7 @@ my last year coding activity in hours
 [![My linkedin profile](https://img.shields.io/badge/email-blue?&logoColor=white")](programmer.lamba@gmail.com)
 [![My linkedin profile](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white")](https://www.linkedin.com/in/nour-abo-elsoud/)
 
-Discord: lamba#5641
+Discord: nouraboelsoud
 
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=315221078093856768)
