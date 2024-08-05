@@ -1,4 +1,4 @@
-### hello
+### Hello 
 * I am Full stack developer
 * I am currently building a freelancing career
 * Programming Is the passion of my life since I was 14
